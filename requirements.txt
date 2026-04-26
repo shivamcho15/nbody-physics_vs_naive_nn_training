@@ -1,0 +1,12 @@
+# core
+numpy>=1.24
+matplotlib>=3.7
+
+# ML (we'll use this in later files)
+torch>=2.0
+tqdm
+
+# notebooks and animations
+jupyter
+imageio>=2.30
+imageio-ffmpeg
